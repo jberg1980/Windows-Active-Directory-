@@ -36,10 +36,11 @@ In this exercise, you will create two domains (and two domain controllers) - one
 <br />
 <br />
 <img src="https://i.imgur.com/9UVwi4F.png" height="80%" width="80%" alt="Windows Active Directory"/>
-</p>
 <h2>Summary </h2><br />
 I have now installed Active Directory Domain Services and created multiple OU's, Groups, and Users on two servers, using two different methods. 
-<!--
+
+</p>
+ <!--
  ```diff
 - text in red
 + text in green
