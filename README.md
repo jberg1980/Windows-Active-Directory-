@@ -26,7 +26,7 @@ In this exercise, you will create two domains (and two domain controllers) - one
 <img src="https://i.imgur.com/rg9Q9iS.png" height="80%" width="80%" alt="Windows Active Directory"/>
 <br />
 <br />
-
+<img src="https://i.imgur.com/FyJOrSb.png" height="80%" width="80%" alt="Windows Active Directory"/>
 <br />
 <br />
 
