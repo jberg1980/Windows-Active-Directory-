@@ -23,13 +23,19 @@ In this exercise, you will create two domains (and two domain controllers) - one
 <img src="https://i.imgur.com/FyJOrSb.png" height="80%" width="80%" alt="Windows Active Directory"/>
 <br />
 <br />
-
+<img src="https://i.imgur.com/0oJwt4F.png" height="80%" width="80%" alt="Windows Active Directory"/>
 <br />
 <br />
-
+<img src="https://i.imgur.com/5FaDOfq.png" height="80%" width="80%" alt="Windows Active Directory"/>
 <br />
 <br />
-
+<img src="https://i.imgur.com/xosFIyu.png" height="80%" width="80%" alt="Windows Active Directory"/>
+<br />
+<br />
+<img src="https://i.imgur.com/nSYXHNn.png" height="80%" width="80%" alt="Windows Active Directory"/>
+<br />
+<br />
+<img src="https://i.imgur.com/9UVwi4F.png" height="80%" width="80%" alt="Windows Active Directory"/>
 </p>
 
 <!--
